@@ -1,1 +1,1 @@
-# AuxFiles
+Extra files used in diffent purpose of the analysis
